@@ -1,10 +1,10 @@
-# AEDs-I---Teoria
+# 🧠 AEDs-I---Teoria
 
 ## Professor 👨‍🏫
 
 Disciplina dada por Prof. Luiz Eduardo
 
-## Matérias 📖
+## Matérias 2025/1 📖
 
 - Comandos de seleção (condicional
 - Comandos de Repetição
